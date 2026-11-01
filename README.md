@@ -7,3 +7,12 @@ ShopEase is a simple and responsive e-commerce landing page built using HTML and
 - HTML5
 - CSS3
 
+## ✨ Features
+
+- Responsive navigation bar
+- Attractive hero section
+- Featured product cards
+- Hover effects and smooth transitions
+- Responsive layout for mobile, tablet, and desktop
+- Clean and simple UI
+
