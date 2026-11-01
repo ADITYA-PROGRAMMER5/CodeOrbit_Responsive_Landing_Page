@@ -48,7 +48,6 @@ body {
     text-align: center;
     padding: 50px 20px;
     color: white;
-
     background: linear-gradient(135deg, #16163d, #663399);
 }
 
@@ -134,7 +133,6 @@ body {
     margin-bottom: 15px;
 }
 
-/* Buy Now Button */
 .product-card button {
     padding: 10px 22px;
     background-color: #663399;
@@ -147,5 +145,28 @@ body {
 
 .product-card button:hover {
     background-color: #16163d;
+}
+
+.about {
+    padding: 50px 8%;
+    text-align: center;
+    background-color: white;
+}
+
+.about h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.about p {
+    max-width: 650px;
+    margin: auto;
+}
+
+footer {
+    padding: 20px;
+    background-color: #16163d;
+    color: white;
+    text-align: center;
 }
 
