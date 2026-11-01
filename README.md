@@ -34,3 +34,16 @@ ShopEase is a simple and responsive e-commerce landing page built using HTML and
 
 That's it! The project is ready to use.
 
+## 📂 Project Structure
+
+```text
+ShopEase/
+│
+├── index.html
+├── style.css
+└── img/
+    ├── shoes.jpg
+    ├── watch.jpg
+    └── headphone.jpg
+```
+
