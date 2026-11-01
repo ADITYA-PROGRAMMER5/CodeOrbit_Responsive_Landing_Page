@@ -47,3 +47,10 @@ ShopEase/
     └── headphone.jpg
 ```
 
+## 🔗 GitHub Repository
+
+[View ShopEase on GitHub](https://github.com/ADITYA-PROGRAMMER5/CodeOrbit_Responsive_Landing_Page.git)
+
+## 👨‍💻 Author
+
+[Aditya Jadhav](https://github.com/ADITYA-PROGRAMMER5)
